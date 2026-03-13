@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פלטפורמת למידה מקוונת משצים עם מעקב אישי, חומרי לימוד עשירים ותעודות אוטומטיות. הצטרפו לקורסים דיגיטליים המותאמים במיוחד לחניכי משצים ממחוז דרום ומרכז.
+
+### פלטפורמה
+https://example.com/platform
+גלו את הפלטפורמה המתקדמת לניהול קורסים דיגיטליים: העלאת חומרים, מעקב נוכחות, ניהול ציונים והנפקת תעודות אוטומטית. מערכת ניהול למידה LMS ישראל המובילה למשצים.
+
+### תעודות
+https://example.com/certificates
+קבלו תעודות גמר ותעודות מדריכים באופן אוטומטי עם השלמת הקורסים הדיגיטליים. מערכת הנפקת תעודות חכמה המבוססת על ביצועים ועמידה בסטנדרטים הנדרשים.
+
+### צור קשר
+https://example.com/contact
+צריכים עזרה עם הפלטפורמה? רוצים להצטרף לקורסים דיגיטליים למשצים דרום ומרכז? צוות התמיכה שלנו כאן בשבילכם. צרו קשר עכשיו ונשמח לסייע בכל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
